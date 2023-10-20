@@ -1,0 +1,2 @@
+# ErrorCodes
+GetLastError codes description
